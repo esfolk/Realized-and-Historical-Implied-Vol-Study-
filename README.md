@@ -51,3 +51,4 @@ Using Fourier transforms and wavelet analysis, I dove into the frequency compone
 
 This comprehensive review can serve as a foundation for further research or trading strategies centered around volatility. The insights drawn can be pivotal for both traders looking to capitalize on market inefficiencies and portfolio managers aiming for effective risk management.
 
+
