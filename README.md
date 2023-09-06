@@ -1,6 +1,5 @@
 # Realized-and-Historical-Implied-Vol-Study-
 
-
 ---
 
 ### Comprehensive Review and Key Insights of the Volatility Analysis:
