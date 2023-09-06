@@ -1,6 +1,5 @@
 # Realized-and-Historical-Implied-Vol-Study-
 
-Of course. Here's the revised comprehensive review with "we" replaced by "I":
 
 ---
 
